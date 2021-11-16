@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "055e5f6c-1e84-4cb7-7423-2a868f9fc921"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Contemporary Literature: British Novels Now",
+  "course_description": "What is Britain now? Its metropolises are increasingly multicultural. Its hold over its distant colonies is a thing of the past. Its sway within the global political arena is weak. Its command over Northern Ireland, Wales, and Scotland is broken or threatened. What have novelists made of all this? What are they writing as the old empire fades away and as new social and political formations emerge? These are the questions that will concern us in this course.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.488",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
